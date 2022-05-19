@@ -1,0 +1,1 @@
+/home/philip/LearnDemo/The_rustc_book/Chapter03/Lint_listing/Warn-by-default-lints/asm-sub-register/bad-asm-style/bad_asm_style/target/debug/bad_asm_style: /home/philip/LearnDemo/The_rustc_book/Chapter03/Lint_listing/Warn-by-default-lints/asm-sub-register/bad-asm-style/bad_asm_style/src/main.rs
